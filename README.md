@@ -26,4 +26,6 @@ In this example, the value of **ok** should be **true** if the token is valid.
 Only HS256 hash algorithm is supported at the moment.
 
 ## Installation
+```
 go get -u github.com/akosmarton/simplejwt
+```
