@@ -1,5 +1,5 @@
 # simplejwt
-A simple [JSON Web Tokens](https://jwt.io/) library package for golang
+A simple [JSON Web Tokens](https://jwt.io/) package in Go
 
 # Description
 You can easly add JWT authentication with the help of this package to your golang web application.
